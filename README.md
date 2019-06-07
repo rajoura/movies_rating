@@ -3,6 +3,7 @@ A Python program to get movies 'Rotten Tomatoes' rating from http://www.omdbapi.
 Note: Tested on CentOS 7 with Python 2.7 & 3 or later.
 
 Dependencies
+
         # Install epel-release to install pip
         yum install -y epel-release
 
@@ -14,6 +15,7 @@ Dependencies
 
 
 Dockerize Python program
+
         # Create docker file 'Dockerfile'
 
         # Build docker image using 'Dockerfile'
